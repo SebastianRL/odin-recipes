@@ -1,1 +1,1 @@
-This is a recipe project containing some of my favorite recipes. This project is part of The odin project. For now it is only focused on HTML files, but in the future it will also contain CSS files.
+This is a recipe project containing some of my favorite recipes. This project is part of The odin project. The project focuses on HTML & CSS foundations.

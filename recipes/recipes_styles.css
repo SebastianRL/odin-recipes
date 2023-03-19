@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  background: rgb(252, 241, 227);
+}
+
+h1,
+h3 {
+  font-weight: bold;
+  color: black;
+  background: wheat;
+}
+
+img {
+  height: 500px;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  list-style: none;
+}
+
+ol {
+  text-align: left;
+}
+
+ol > li::marker {
+  font-weight: bold;
+}
